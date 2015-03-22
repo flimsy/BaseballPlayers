@@ -1,0 +1,4 @@
+37,Smith,John,0.351
+38,Mary,King,0.234
+39,Sam,Sung,0.342
+40,Frank,Sun,0.521
